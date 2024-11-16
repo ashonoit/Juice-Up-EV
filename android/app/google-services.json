@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556705997094",
+    "project_id": "juiceup-ev",
+    "storage_bucket": "juiceup-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556705997094:android:d522ead11f879e97c661e7",
+        "android_client_info": {
+          "package_name": "com.example.juice_up_ev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDFT9Ps0wxP4OD9gX1lPWyS-VeuPFkUjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
